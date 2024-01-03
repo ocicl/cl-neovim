@@ -2,9 +2,8 @@
 
 Common lisp client for neovim
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/adolenc/cl-neovim.git   |
-| commit  | 7212d30  |
-| systems | cl-neovim |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/adolenc/cl-neovim.git |
+| commit  | c495b65                                      |
+| systems | cl-neovim                                    |
+|---------+----------------------------------------------|
